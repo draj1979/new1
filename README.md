@@ -12,7 +12,7 @@
 
         git remote add origin git@github.com:YOUR_GITHUB_USER_NAME_HERE/exercise-files.git
 
-- After the remote is added, pull  the files to the remote.
+- After the remote is added, push the  the files to the remote.
 
         git push -u origin master
 
